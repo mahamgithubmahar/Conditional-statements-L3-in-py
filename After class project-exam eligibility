@@ -1,0 +1,5 @@
+acceptance=float(input("Enter your attendance "))
+if acceptance>60:
+    print("You are eligible for the exams")
+else:
+    print("You are not eligible for the exams")
